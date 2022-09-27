@@ -65,7 +65,7 @@ Jeeq TracQer is a tool built for small businesses lacking in resources to help t
 
 </div>
 
-### Viewing help : `help` 
+### Viewing help : `help`
 
 `help` returns the list of all commands. `help [COMMAND]` returns the detailed description of that specified command.
 
