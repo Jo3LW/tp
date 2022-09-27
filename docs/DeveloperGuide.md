@@ -272,12 +272,13 @@ Priorities: High (must have) - `* * *`, Medium (nice to have) - `* *`, Low (unli
 
 | Priority | As a …​                                    | I want to …​                     | So that I can…​                                                        |
 | -------- | ------------------------------------------ | ------------------------------ | ---------------------------------------------------------------------- |
-| `* * *`  | new user                                   | see usage instructions         | refer to instructions when I forget how to use the App                 |
-| `* * *`  | user                                       | add a new person               |                                                                        |
-| `* * *`  | user                                       | delete a person                | remove entries that I no longer need                                   |
-| `* * *`  | user                                       | find a person by name          | locate details of persons without having to go through the entire list |
-| `* *`    | user                                       | hide private contact details   | minimize chance of someone else seeing them by accident                |
-| `*`      | user with many persons in the address book | sort persons by name           | locate a person easily                                                 |
+| `* * *` | business owner            | choose which comoant and point-of-contact to delete | save only relevant companys and point-of-contact to remove clutter |
+| `* * *` | forgetful businesss owner | see usage instructions                     | refer to instructions when I forget how to use the App             |
+| `* * *` | new business owner        | simply search for contacts                 | only retrieve the essetial details i need                          |
+| `* * *` | new business owner        | view a company's details and point of contact | easily know who to contact for that company                        |
+| `* * *` | busy business owner       | quickly retrieve the date of the company   | save time without having to go through multiple layers             |
+| `* * *` | careless business owner   | edit the details of point-of-contact       | correct the mistakes that I did                                    |
+| `* * `  | efficient business owner  | sort the search result by price            | quickly know which company I have made the most transactio with    |
 
 *{More to be added}*
 
