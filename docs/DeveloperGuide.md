@@ -348,11 +348,11 @@ Priorities: High (must have) - `* * *`, Medium (nice to have) - `* *`, Low (unli
 * 1a. Client Mcdonalds already exists.
     * 1a1. JeeqTracker shows an error message.
 
-        Use case resumes at 1.
+        Use case resumes at step 1.
 * 3a. User fails to provide all necessary details to create a POC.
     * 3a1. JeeqTracker shows an error message.
 
-        Use case resumes at 2.
+        Use case resumes at step 2.
 
 **Use case: Requesting help**
 
@@ -374,12 +374,25 @@ Priorities: High (must have) - `* * *`, Medium (nice to have) - `* *`, Low (unli
 3. User confirms
 4. JeeqTracker clears all data in JeeqTracker
 
+    Use case ends.
+
+
+**Use case: Buying shoes**
+
+**MSS**
+
+1. User requests to adds a buy shoes transaction to a specific client
+2. JeeqTracker displays a success transaction message
+3. JeeqTracker displays the updated total transaction in the client details
+
+    Use case ends.
+
 **Extensions**
 
-* 3a. User inputs the wrong word for confirmation.
-    * 3a1. JeeqTracker shows an error message.
+* 1a. Client chosen is invalid.
+    * 1a1. JeeqTracker shows an error message.
 
-      Use case resumes at 2.
+      Use case resumes at step 1.
 
 
 *{More to be added}*
